@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Encryption+Frontend-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Encryption-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 SiriKali Free Installer** — SiriKali is a Qt-based GUI for creating and managing encrypted virtual drives using EncFS, gocryptfs, CryFS, and other backends. Works without internet access, no account required. Full offline installation.
+**💻 SiriKali Free Installer** — SiriKali is a free, open-source GUI front-end for encrypted filesystem tools including VeraCrypt, gocryptfs, cryFS, and others on Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About SiriKali
 
-SiriKali is a Qt-based GUI for creating and managing encrypted virtual drives using EncFS, gocryptfs, CryFS, and other backends. It provides a user-friendly interface for mounting and unmounting encrypted folders across Linux, macOS, and Windows.
+SiriKali is a free, open-source GUI front-end for encrypted filesystem tools including VeraCrypt, gocryptfs, cryFS, and others on Windows, macOS, and Linux. Create and mount encrypted filesystem containers with a consistent interface regardless of the underlying encryption technology. SiriKali makes working with multiple encrypted filesystem tools accessible without learning each tool's command-line interface.
 
 ---
 
 ## ❌ Problem: SiriKali is hard to access
 
-- **Backend Required** — Requires separate installation of encryption backends like gocryptfs
-- **Technical Setup** — Initial configuration requires comfort with encryption concepts
-- **Limited Windows Support** — Windows functionality less complete than on Linux
-- **Sparse Documentation** — Help resources are minimal compared to commercial alternatives
+- **Dependency on Backends** — Requires installation of supported encryption backends separately
+- **Technical Concepts** — Encrypted filesystem concepts require basic understanding of encryption
+- **Platform Inconsistency** — Available encryption backends differ across operating systems
+- **Active Development** — Update frequency moderate for open-source project
 
 ---
 
@@ -121,7 +121,7 @@ SiriKali is a Qt-based GUI for creating and managing encrypted virtual drives us
 
 ---
 
-**SiriKali Free Installer** — SiriKali is a Qt-based GUI for creating and managing encrypted virtual drives using EncFS, gocryptfs, CryFS, and other backends. Install without internet connection today!
+**SiriKali Free Installer** — SiriKali is a free, open-source GUI front-end for encrypted filesystem tools including VeraCrypt, gocryptfs, cryFS, and others on Windows, macOS, and Linux. Install without internet connection today!
 
 <div align="center">
 
